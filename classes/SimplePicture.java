@@ -43,7 +43,8 @@ public class SimplePicture implements DigitalPicture
    * extension for this file (jpg or bmp)
    */
   private String extension;
-  
+
+
  
  /////////////////////// Constructors /////////////////////////
  
